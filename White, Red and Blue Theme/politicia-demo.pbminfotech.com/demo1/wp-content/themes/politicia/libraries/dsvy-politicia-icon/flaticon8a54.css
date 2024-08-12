@@ -1,0 +1,419 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticone519.ttf?63630c9e0203f679ef6f891a9061a890") format("truetype"),
+url("flaticone519.woff?63630c9e0203f679ef6f891a9061a890") format("woff"),
+url("flaticone519.woff2?63630c9e0203f679ef6f891a9061a890") format("woff2"),
+url("flaticone519.eot?63630c9e0203f679ef6f891a9061a890#iefix") format("embedded-opentype"),
+url("flaticone519.svg?63630c9e0203f679ef6f891a9061a890#flaticon") format("svg");
+}
+
+i[class^="dsvy-politicia-icon-"]:before, i[class*="dsvy-politicia-icon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+}
+
+.dsvy-politicia-icon-charity:before {
+    content: "\f101";
+}
+.dsvy-politicia-icon-flag:before {
+    content: "\f102";
+}
+.dsvy-politicia-icon-activism:before {
+    content: "\f103";
+}
+.dsvy-politicia-icon-investor:before {
+    content: "\f104";
+}
+.dsvy-politicia-icon-consumer:before {
+    content: "\f105";
+}
+.dsvy-politicia-icon-social-responsibility:before {
+    content: "\f106";
+}
+.dsvy-politicia-icon-solidarity:before {
+    content: "\f107";
+}
+.dsvy-politicia-icon-home:before {
+    content: "\f108";
+}
+.dsvy-politicia-icon-family:before {
+    content: "\f109";
+}
+.dsvy-politicia-icon-environment:before {
+    content: "\f10a";
+}
+.dsvy-politicia-icon-woman:before {
+    content: "\f10b";
+}
+.dsvy-politicia-icon-law-book:before {
+    content: "\f10c";
+}
+.dsvy-politicia-icon-equality:before {
+    content: "\f10d";
+}
+.dsvy-politicia-icon-gender-equality:before {
+    content: "\f10e";
+}
+.dsvy-politicia-icon-human-rights:before {
+    content: "\f10f";
+}
+.dsvy-politicia-icon-no-war:before {
+    content: "\f110";
+}
+.dsvy-politicia-icon-vote:before {
+    content: "\f111";
+}
+.dsvy-politicia-icon-world:before {
+    content: "\f112";
+}
+.dsvy-politicia-icon-civil-rights:before {
+    content: "\f113";
+}
+.dsvy-politicia-icon-equality-1:before {
+    content: "\f114";
+}
+.dsvy-politicia-icon-pray:before {
+    content: "\f115";
+}
+.dsvy-politicia-icon-vote-1:before {
+    content: "\f116";
+}
+.dsvy-politicia-icon-auction:before {
+    content: "\f117";
+}
+.dsvy-politicia-icon-hand-shake:before {
+    content: "\f118";
+}
+.dsvy-politicia-icon-pacifism:before {
+    content: "\f119";
+}
+.dsvy-politicia-icon-balance:before {
+    content: "\f11a";
+}
+.dsvy-politicia-icon-family-1:before {
+    content: "\f11b";
+}
+.dsvy-politicia-icon-planet-earth:before {
+    content: "\f11c";
+}
+.dsvy-politicia-icon-planet-earth-1:before {
+    content: "\f11d";
+}
+.dsvy-politicia-icon-planet-earth-2:before {
+    content: "\f11e";
+}
+.dsvy-politicia-icon-house:before {
+    content: "\f11f";
+}
+.dsvy-politicia-icon-sprout:before {
+    content: "\f120";
+}
+.dsvy-politicia-icon-pacifism-1:before {
+    content: "\f121";
+}
+.dsvy-politicia-icon-family-2:before {
+    content: "\f122";
+}
+.dsvy-politicia-icon-hospital:before {
+    content: "\f123";
+}
+.dsvy-politicia-icon-blood-donation:before {
+    content: "\f124";
+}
+.dsvy-politicia-icon-equality-2:before {
+    content: "\f125";
+}
+.dsvy-politicia-icon-peace:before {
+    content: "\f126";
+}
+.dsvy-politicia-icon-school:before {
+    content: "\f127";
+}
+.dsvy-politicia-icon-office:before {
+    content: "\f128";
+}
+.dsvy-politicia-icon-hospital-1:before {
+    content: "\f129";
+}
+.dsvy-politicia-icon-bank:before {
+    content: "\f12a";
+}
+.dsvy-politicia-icon-graduated:before {
+    content: "\f12b";
+}
+.dsvy-politicia-icon-megaphone:before {
+    content: "\f12c";
+}
+.dsvy-politicia-icon-megaphone-1:before {
+    content: "\f12d";
+}
+.dsvy-politicia-icon-capitol:before {
+    content: "\f12e";
+}
+.dsvy-politicia-icon-debate:before {
+    content: "\f12f";
+}
+.dsvy-politicia-icon-choice:before {
+    content: "\f130";
+}
+.dsvy-politicia-icon-vote-2:before {
+    content: "\f131";
+}
+.dsvy-politicia-icon-newspaper:before {
+    content: "\f132";
+}
+.dsvy-politicia-icon-rating:before {
+    content: "\f133";
+}
+.dsvy-politicia-icon-speech:before {
+    content: "\f134";
+}
+.dsvy-politicia-icon-capitol-1:before {
+    content: "\f135";
+}
+.dsvy-politicia-icon-jigsaw:before {
+    content: "\f136";
+}
+.dsvy-politicia-icon-demand:before {
+    content: "\f137";
+}
+.dsvy-politicia-icon-suitcase:before {
+    content: "\f138";
+}
+.dsvy-politicia-icon-briefcase:before {
+    content: "\f139";
+}
+.dsvy-politicia-icon-open-book:before {
+    content: "\f13a";
+}
+.dsvy-politicia-icon-book:before {
+    content: "\f13b";
+}
+.dsvy-politicia-icon-graduation-cap:before {
+    content: "\f13c";
+}
+.dsvy-politicia-icon-economy:before {
+    content: "\f13d";
+}
+.dsvy-politicia-icon-business-and-finance:before {
+    content: "\f13e";
+}
+.dsvy-politicia-icon-economy-1:before {
+    content: "\f13f";
+}
+.dsvy-politicia-icon-economy-2:before {
+    content: "\f140";
+}
+.dsvy-politicia-icon-general:before {
+    content: "\f141";
+}
+.dsvy-politicia-icon-medal:before {
+    content: "\f142";
+}
+.dsvy-politicia-icon-veteran:before {
+    content: "\f143";
+}
+.dsvy-politicia-icon-veteran-1:before {
+    content: "\f144";
+}
+.dsvy-politicia-icon-healthcare:before {
+    content: "\f145";
+}
+.dsvy-politicia-icon-heartbeat:before {
+    content: "\f146";
+}
+.dsvy-politicia-icon-pills:before {
+    content: "\f147";
+}
+.dsvy-politicia-icon-social-care:before {
+    content: "\f148";
+}
+.dsvy-politicia-icon-vote-3:before {
+    content: "\f149";
+}
+.dsvy-politicia-icon-vote-4:before {
+    content: "\f14a";
+}
+.dsvy-politicia-icon-baby-boy:before {
+    content: "\f14b";
+}
+.dsvy-politicia-icon-donation:before {
+    content: "\f14c";
+}
+.dsvy-politicia-icon-donation-1:before {
+    content: "\f14d";
+}
+.dsvy-politicia-icon-manifesto:before {
+    content: "\f14e";
+}
+.dsvy-politicia-icon-policy:before {
+    content: "\f14f";
+}
+.dsvy-politicia-icon-policy-1:before {
+    content: "\f150";
+}
+.dsvy-politicia-icon-freedom:before {
+    content: "\f151";
+}
+.dsvy-politicia-icon-discussion:before {
+    content: "\f152";
+}
+.dsvy-politicia-icon-tolerance:before {
+    content: "\f153";
+}
+.dsvy-politicia-icon-private:before {
+    content: "\f154";
+}
+.dsvy-politicia-icon-equality-3:before {
+    content: "\f155";
+}
+.dsvy-politicia-icon-unity:before {
+    content: "\f156";
+}
+.dsvy-politicia-icon-megaphone-2:before {
+    content: "\f157";
+}
+.dsvy-politicia-icon-dove:before {
+    content: "\f158";
+}
+.dsvy-politicia-icon-ribbon:before {
+    content: "\f159";
+}
+.dsvy-politicia-icon-law:before {
+    content: "\f15a";
+}
+.dsvy-politicia-icon-financial:before {
+    content: "\f15b";
+}
+.dsvy-politicia-icon-police-line:before {
+    content: "\f15c";
+}
+.dsvy-politicia-icon-morality:before {
+    content: "\f15d";
+}
+.dsvy-politicia-icon-donation-2:before {
+    content: "\f15e";
+}
+.dsvy-politicia-icon-justice:before {
+    content: "\f15f";
+}
+.dsvy-politicia-icon-rejection:before {
+    content: "\f160";
+}
+.dsvy-politicia-icon-public-speaking:before {
+    content: "\f161";
+}
+.dsvy-politicia-icon-courthouse:before {
+    content: "\f162";
+}
+.dsvy-politicia-icon-police:before {
+    content: "\f163";
+}
+.dsvy-politicia-icon-slavery:before {
+    content: "\f164";
+}
+.dsvy-politicia-icon-gavel:before {
+    content: "\f165";
+}
+.dsvy-politicia-icon-blm:before {
+    content: "\f166";
+}
+.dsvy-politicia-icon-freedom-of-speech:before {
+    content: "\f167";
+}
+.dsvy-politicia-icon-no-war-1:before {
+    content: "\f168";
+}
+.dsvy-politicia-icon-tshirt:before {
+    content: "\f169";
+}
+.dsvy-politicia-icon-solidarity-1:before {
+    content: "\f16a";
+}
+.dsvy-politicia-icon-earthquake:before {
+    content: "\f16b";
+}
+.dsvy-politicia-icon-heart:before {
+    content: "\f16c";
+}
+.dsvy-politicia-icon-food-donation:before {
+    content: "\f16d";
+}
+.dsvy-politicia-icon-world-humanitarian-day:before {
+    content: "\f16e";
+}
+.dsvy-politicia-icon-medical-kit:before {
+    content: "\f16f";
+}
+.dsvy-politicia-icon-refugee-camp:before {
+    content: "\f170";
+}
+.dsvy-politicia-icon-protest:before {
+    content: "\f171";
+}
+.dsvy-politicia-icon-food-donation-1:before {
+    content: "\f172";
+}
+.dsvy-politicia-icon-charity-1:before {
+    content: "\f173";
+}
+.dsvy-politicia-icon-food-donation-2:before {
+    content: "\f174";
+}
+.dsvy-politicia-icon-solidarity-2:before {
+    content: "\f175";
+}
+.dsvy-politicia-icon-cv:before {
+    content: "\f176";
+}
+.dsvy-politicia-icon-cut:before {
+    content: "\f177";
+}
+.dsvy-politicia-icon-tax:before {
+    content: "\f178";
+}
+.dsvy-politicia-icon-tax-1:before {
+    content: "\f179";
+}
+.dsvy-politicia-icon-blackboard:before {
+    content: "\f17a";
+}
+.dsvy-politicia-icon-play-button:before {
+    content: "\f17b";
+}
+.dsvy-politicia-icon-worldwide:before {
+    content: "\f17c";
+}
+.dsvy-politicia-icon-phone:before {
+    content: "\f17d";
+}
+.dsvy-politicia-icon-phone-1:before {
+    content: "\f17e";
+}
+.dsvy-politicia-icon-telephone:before {
+    content: "\f17f";
+}
+.dsvy-politicia-icon-location:before {
+    content: "\f180";
+}
+.dsvy-politicia-icon-placeholder:before {
+    content: "\f181";
+}
+.dsvy-politicia-icon-mail:before {
+    content: "\f182";
+}
+.dsvy-politicia-icon-email:before {
+    content: "\f183";
+}
+.dsvy-politicia-icon-shopping-bag:before {
+    content: "\f184";
+}
+.dsvy-politicia-icon-loupe:before {
+    content: "\f185";
+}
+.dsvy-politicia-icon-play-button-1:before {
+    content: "\f186";
+}
+.dsvy-politicia-icon-play:before {
+    content: "\f187";
+}
